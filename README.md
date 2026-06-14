@@ -1,6 +1,6 @@
 # Tourism_Package_Prediction - MLOps Pipeline Assignment
 
-## 📋 Project Objective
+## Project Objective
 
 The primary objective of this project is to design and deploy an end-to-end MLOps pipeline that predicts whether a customer is likely to purchase the Wellness Tourism Package before being contacted by the marketing team.
 
@@ -12,17 +12,17 @@ As an MLOps Engineer, the responsibilities include:
     
 This solution enables the business to make data-driven marketing decisions, optimize customer outreach, and improve customer acquisition while reducing operational overhead.
 
-## 🚀 Live Demo
+## Live Demo
 
 - **Hugging Face Spaces**: [View Live](https://huggingface.co/spaces/Anoupama/Tourism_Package_Prediction)
 
-## ⚡ Quick Start
+## Quick Start
 ```bash
 git clone https://github.com/Anoupama/Tourism_Package_Prediction.git
 cd Tourism_Project
 ```
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 tourism_project/
@@ -44,7 +44,7 @@ tourism_project/
 └── requirements.txt                     # Workflow dependencies
 ```
 
-## 🎯 Key Features
+## Key Features
 
 ### 1. **Data Registration & Preparation**
 - Automated dataset upload to Hugging Face Hub
