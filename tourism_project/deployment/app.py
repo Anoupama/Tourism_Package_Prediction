@@ -16,7 +16,7 @@ st.set_page_config(
 def load_model():
     try:
         model_path = hf_hub_download(
-            repo_id="Tourism_Package_Prediction_model", 
+            repo_id="Anoupama/Tourism_Package_Prediction_model", 
             filename="best_tourism_package_prediction_model_v1.joblib"
         )
         model = joblib.load(model_path)
